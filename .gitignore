@@ -30,3 +30,5 @@ server/lifeLog/
 server/categories
 server/objects
 server/transitions
+
+gameSource/*.exe
